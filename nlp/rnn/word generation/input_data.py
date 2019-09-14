@@ -2,7 +2,7 @@ import numpy as np
 import tensorflow as tf
 import io
 
-INPUT_DATA_PATH = '../../../dataset/nlp/nietzsche.txt'
+INPUT_DATA_PATH = '../../../dataset/nlp/shakespeare.txt'
 
 
 def load_inputs():

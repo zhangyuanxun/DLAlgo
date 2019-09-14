@@ -1,6 +1,6 @@
-# Deep Learning Models and Algorithms
+# Deep Learning Algorithms
 
-Implementations of deep learning models using TensorFlow.
+Implementations of some deep learning algorithms and model using TensorFlow.
 
 ## Table of Contents
   * [NLP](https://github.com/zhangyuanxun/DLAlgo/blob/master/nlp/)
