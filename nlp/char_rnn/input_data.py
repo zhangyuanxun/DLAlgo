@@ -19,5 +19,6 @@ def load_inputs():
     print char_indices
     print indices_char
 
+
 if __name__ == '__main__':
     load_inputs()
